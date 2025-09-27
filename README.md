@@ -6,4 +6,5 @@ This project contains my setup files for the MedTech Lab theme, including learni
 ```bash
 node system_test.js
 
-https://github.com/FathimaHibaa/MedTechLab_Submission.git
+GitHub Repository: 
+https://github.com/FathimaHibaa/MedTechLab_Submission
